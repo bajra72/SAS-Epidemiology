@@ -1,4 +1,4 @@
-# SAS-Epidemiology
+# SAS-Epidemiology--Logistic-Regression-and-Decision-Tree-Modeling
 Epidemiology project showcasing SAS skills in statistical analysis and machine learning-based predictive modeling. Performed univariate tests, built a logistic regression model, developed a decision tree using machine learning, and interpreted key predictors. Assessed model performance using ROC curve and AUC.
 
 # Methods
